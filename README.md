@@ -3,7 +3,7 @@
 
 Xin chào mọi người! Đây là một dự án nhỏ giúp ghi chép và quản lý chi tiêu hằng ngày thông qua các câu lệnh đơn giản bằng tiếng Việt, ví dụ như: **"23/5/2025 ăn sáng 50k"**.
 
-Dự án chạy trên Google Colab hoặc có thể tích hợp với Bot (Discord/Telegram) và GROQ API.
+Dự án chạy trên Google Colab hoặc có thể tích hợp với Bot Discord và GROQ API.
 
 ## 🛠️ Hướng dẫn sửa chỗ điền API Key & Bot Token
 
